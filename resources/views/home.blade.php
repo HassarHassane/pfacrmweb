@@ -109,7 +109,7 @@ google.charts.load('current', {'packages':['corechart']});
 
     var data = google.visualization.arrayToDataTable([
       ['Total ', 'l'],
-      ['Total Claim', <?php echo $totalReclamations ?>],
+
       ['Opened Claim', <?php echo  $openReclamations ?>],
       ['Closed Claim', <?php echo $closedReclamations ?>]
     ]);
