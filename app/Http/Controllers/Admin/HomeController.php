@@ -95,6 +95,6 @@ class HomeController
 
 
 
-        return view('home',compact('totalReclamations','user','openReclamations', 'closedReclamations','users','customer','responsible','admin','usersCount','jan','fev','mar','apr','mai','jui','juie','aou','sep','oct','nou','dec')); 
+        return view('home',compact('totalReclamations','user','openReclamations', 'closedReclamations','users','customer','responsible','admin','jan','fev','mar','apr','mai','jui','juie','aou','sep','oct','nou','dec')); 
     }
 }
