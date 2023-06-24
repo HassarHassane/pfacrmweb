@@ -10,10 +10,10 @@ We chose as title of our project 'CRMWebApp' which obviously reflects the major 
 </p>
 
 ##  Technologies / framework used
-HTML, CSS, Bootstrap, JavaScript,Ajax,Laravel,MySql database.
+HTML, CSS, Bootstrap, JavaScript, Ajax, Laravel, MySQL
 
 ## Deployment
-The project is deployed in https://dashboard.heroku.com/apps from GitHub.
+The project is deployed in Heroku from GitHub.
 
-© HASSAR Hassane
+
 
